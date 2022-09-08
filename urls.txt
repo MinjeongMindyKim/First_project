@@ -1,1 +1,5 @@
-https://finance.naver.com/marketindex/?tabSel=exchange#tab_section
+1. 날씨 https://www.accuweather.com/ko/ga/franceville/168610/september-weather/168610
+
+2. 축제 https://search.naver.com/search.naver?sm=tab_sug.top&where=nexearch&query=%ED%95%B4%EC%99%B8+%EC%B6%95%EC%A0%9C&oquery=%ED%95%B4%EC%99%B8%EC%B6%95%EC%A0%9C&tqi=hxmgtlprvOsssT4xQTRssssstAs-035084&acq=%ED%95%B4%EC%99%B8+%EC%B6%95%EC%A0%9C&acr=1&qdt=0
+
+3. 환율 https://finance.naver.com/marketindex/?tabSel=exchange#tab_section
