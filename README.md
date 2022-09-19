@@ -10,7 +10,7 @@
 
 & 핫플 & 맛집 & 액티비티까지!
 시즌별 축제 URL = ??????대륙별?????
-이 데이터를 판다스 이용해서 표로 정리 가능?
+이 데이터를 판다스 이용해서 표로 정리 가능? pandas.read.html
 https://search.naver.com/search.naver?sm=tab_sug.top&where=nexearch&query=%ED%95%B4%EC%99%B8+%EC%B6%95%EC%A0%9C&oquery=%ED%95%B4%EC%99%B8%EC%B6%95%EC%A0%9C&tqi=hxmgtlprvOsssT4xQTRssssstAs-035084&acq=%ED%95%B4%EC%99%B8+%EC%B6%95%EC%A0%9C&acr=1&qdt=0
 
 오늘의 날씨 - https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=%ED%94%84%EB%9E%91%EC%8A%A4+%EB%82%A0%EC%94%A8
@@ -70,3 +70,28 @@ URL = https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=
 
 모듈 상세 설명
 모듈명.py : 일본 엔화의 10년간 환율 추이를 보는 기능을 하는 모듈입니다.
+
+
+
+
+--최종
+
+주제: 해외 여행, 언제 갈래? (여행정보 크롤링하는 프로그램)
+
+목적: 나라별, 시즌별 축제 한 눈에 보기
+목표: 여행 전 그 나라의 환율 & 축제 & 날씨정보를 알아보고 싶다면?
+내 라이브러리를 추천함
+
+
+
+1. PART 환율
+(1) 환율정보 함수 만들기 [def 함수]
+(2) 10년간 국제 시장 환율 변동 측정
+
+2. PART 축제
+(1) 축제정보 함수 만들기 [def 축제] -----현재 여기까지 진행중
+(2) 나라이름 검색시 해당 나라의 축제 리스트 추출
+
+3. PART 날씨
+(1) 날씨정보 함수 만들기 [def 날씨]
+(2) 여행갈 날짜의 날씨 검색
