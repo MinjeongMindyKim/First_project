@@ -91,7 +91,3 @@ URL = https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=
 2. PART 축제
 (1) 축제정보 함수 만들기 [def 축제] -----현재 여기까지 진행중
 (2) 나라이름 검색시 해당 나라의 축제 리스트 추출
-
-3. PART 날씨
-(1) 날씨정보 함수 만들기 [def 날씨]
-(2) 여행갈 날짜의 날씨 검색
