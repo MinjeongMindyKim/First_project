@@ -138,17 +138,13 @@ def 나라_축제(update, context):
     message = 축제(context.args[0], context.args[1])
     context.bot.send_message(chat_id=update.effective_chat.id, text=message)
  
-def zigbang(update, context):
-    context.bot.send_message(chat_id=update.effective_chat.id, text="[{}] 주변 매물을 수집합니다.".format( context.args[0] ))
     
  
 money_handler = CommandHandler('money', 나라_환율)
 festa_handler = CommandHandler('festa', 나라_축제)
-zigbang_handler = CommandHandler('zigbang', zigbang)
  
 dispatcher.add_handler(money_handler)
 dispatcher.add_handler(festa_handler)
-dispatcher.add_handler(zigbang_handler)
  
 updater.start_polling()
 updater.idle()
